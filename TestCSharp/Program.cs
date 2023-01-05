@@ -19,7 +19,6 @@
 		public float Inch
 		{
 			get { return Centimeter * ONE_INCH; }
-			private set { Centimeter = (int)(value / ONE_INCH); }
 		}
 
 		public Ruler(int centimeter) { Centimeter = centimeter; }
@@ -27,6 +26,12 @@
 		public void PrintInch()
 		{
 			Console.WriteLine($"{Centimeter}cm는 {Inch}inch 입니다.");
+		}
+
+		//	2023.01.05. make new method
+		private void SetInch(int inch)
+		{
+			Centimeter = (int)(inch / ONE_INCH);
 		}
 	}
 }

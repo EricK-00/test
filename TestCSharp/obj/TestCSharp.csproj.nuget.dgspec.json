@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\thkim\\CSharpWorks\\test\\Beta\\TestCSharp\\TestCSharp.csproj": {}
+    "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj": {}
   },
   "projects": {
-    "C:\\thkim\\CSharpWorks\\test\\Beta\\TestCSharp\\TestCSharp.csproj": {
+    "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\thkim\\CSharpWorks\\test\\Beta\\TestCSharp\\TestCSharp.csproj",
+        "projectUniqueName": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj",
         "projectName": "TestCSharp",
-        "projectPath": "C:\\thkim\\CSharpWorks\\test\\Beta\\TestCSharp\\TestCSharp.csproj",
+        "projectPath": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj",
         "packagesPath": "C:\\Users\\KGA_18\\.nuget\\packages\\",
-        "outputPath": "C:\\thkim\\CSharpWorks\\test\\Beta\\TestCSharp\\obj\\",
+        "outputPath": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

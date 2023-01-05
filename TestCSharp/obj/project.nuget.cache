@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "HFlosxcZFlhgM5NGoHGC6PjDIgMgwkjr/yG3SlhVJtuD0VnLOzx41Ch+NbBfg7yBOsMeoHJT76q//K072PhqCw==",
+  "dgSpecHash": "U79IxmXUfKMwd0T/H/EnCQIeQ4GA/W4a4yYc7jJ6i3bPqPdh7ARCD9oDBlEqojt83MhTOuluMQrsqxv/4wkyiQ==",
   "success": true,
-  "projectFilePath": "C:\\thkim\\CSharpWorks\\test\\Beta\\TestCSharp\\TestCSharp.csproj",
+  "projectFilePath": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
