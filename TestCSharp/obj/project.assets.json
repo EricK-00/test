@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj",
+      "projectUniqueName": "C:\\thkim\\CSharpWorks\\test\\main\\TestCSharp\\TestCSharp.csproj",
       "projectName": "TestCSharp",
-      "projectPath": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\TestCSharp.csproj",
+      "projectPath": "C:\\thkim\\CSharpWorks\\test\\main\\TestCSharp\\TestCSharp.csproj",
       "packagesPath": "C:\\Users\\KGA_18\\.nuget\\packages\\",
-      "outputPath": "C:\\thkim\\CSharpWorks\\test\\Develop\\TestCSharp\\obj\\",
+      "outputPath": "C:\\thkim\\CSharpWorks\\test\\main\\TestCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,5 +69,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\thkim\\CSharpWorks\\test\\main\\TestCSharp\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'expectedPackageFiles', line 7, position 0."
+    }
+  ]
 }

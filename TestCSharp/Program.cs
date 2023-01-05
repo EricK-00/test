@@ -4,8 +4,10 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");
-			Ruler ruler = new Ruler(10);
+			//	2023.01.05. get user input
+			int input;
+			int.TryParse(Console.ReadLine(), out input);
+			Ruler ruler = new Ruler(input);
 			ruler.PrintInch();
 		}
 	}
@@ -25,6 +27,12 @@
 		public void PrintInch()
 		{
 			Console.WriteLine($"{Centimeter}cm는 {Inch}inch 입니다.");
+		}
+
+		//	2023.01.05. make new method
+		private void SetInch(int inch)
+		{
+			Centimeter = (int)(inch / ONE_INCH);
 		}
 	}
 }
