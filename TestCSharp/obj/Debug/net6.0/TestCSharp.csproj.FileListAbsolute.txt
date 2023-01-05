@@ -1,0 +1,15 @@
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\bin\Debug\net6.0\TestCSharp.exe
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\bin\Debug\net6.0\TestCSharp.deps.json
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\bin\Debug\net6.0\TestCSharp.runtimeconfig.json
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\bin\Debug\net6.0\TestCSharp.dll
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\bin\Debug\net6.0\TestCSharp.pdb
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.csproj.AssemblyReference.cache
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.AssemblyInfoInputs.cache
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.AssemblyInfo.cs
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.csproj.CoreCompileInputs.cache
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.dll
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\refint\TestCSharp.dll
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.pdb
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\TestCSharp.genruntimeconfig.cache
+C:\thkim\CSharpWorks\test\Gamma\TestCSharp\obj\Debug\net6.0\ref\TestCSharp.dll
