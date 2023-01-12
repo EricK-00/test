@@ -1,0 +1,11 @@
+git tag: 로컬저장소 태그 보기
+git branch: 로컬저장소 브랜치 보기
+git branch -r: 원격저장소 브랜치 보기
+
+git push origin (TagName): 태그 푸시
+git branch --set-upstream-to=origin/(RepoName): push 기본 원격저장소 지정
+git checkout -b (BranchName): 해당 브랜치로 이동(-b 브랜치가 없으면 로컬저장소에 생성)
+git branch -D (BranchName): 로컬저장소에서 브랜치 삭제
+git push origin --delete (BranchName): 원격저장소에서 브랜치 삭제
+git merge (BranchName)
+git pull origin (BranchName): 원격저장소에서 특정 브랜치만 내려받기
